@@ -1,0 +1,6 @@
+{
+  "name": "MP3 Player",
+  "description": "An account-free offline music player with local MediaStore scanning, Media3 background playback, graphic equalizer, bass boost, playlists, and favorites stored on the device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

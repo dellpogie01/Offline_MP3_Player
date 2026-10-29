@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MP3 Player</string>
+    <string name="splash_subtitle">Your music. Just play.</string>
+    <string name="home_subtitle">Your music collection.</string>
+</resources>
